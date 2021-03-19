@@ -1,5 +1,5 @@
 ########### VARIABLES ##############
-GCP_PROJECT="sopes1-proyecto1 "
+GCP_PROJECT="sopes1-proyecto1"
 SERVICE_NAME="reversed-proxy"
 REGION="us-central1"
 
