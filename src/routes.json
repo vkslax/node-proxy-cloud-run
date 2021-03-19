@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "route": "/api/v1/cases",
+      "address": "http://35.192.85.7:8080/list"
+    },
+    {
+      "route": "/api/v1/statistics",
+      "address": "http://35.192.85.7:8080/statistics"
+    },
+    {
+      "route": "/api/v2/cases",
+      "address": "http://10.128.0.9:8080/list"
+    },
+    {
+      "route": "/api/v2/statistics",
+      "address": "http://10.128.0.9:8080/statistics"
+    }
+  ]
+}
